@@ -1,0 +1,23 @@
+{
+  "architecte": {
+    "nom": "Martin",
+    "prenom": "Cécile",
+    "email": "cecile.martin.archi@email.fictif.fr",
+    "telephone": "0601020304"
+  },
+  "societe": {
+    "raison_sociale": "Cécile Martin Architecte SASU",
+    "siret": "12345678900010",
+    "adresse": {
+      "numero": "42",
+      "voie": "Place de l'Architecture",
+      "code_postal": "34000",
+      "ville": "Montpellier",
+      "pays": "France"
+    }
+  },
+  "ordre_architectes": {
+    "numero_national": "098765",
+    "conseil_regional": "Occitanie"
+  }
+}
